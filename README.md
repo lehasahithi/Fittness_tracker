@@ -39,22 +39,6 @@ A simple yet effective full-stack web application that helps users track their w
 
 ---
 
-## 📂 Project Structure
-
-tracker-app/
-│
-├── app/
-│ ├── main, users, entries (Blueprints for modular views)
-│ ├── api/ # RESTful API support
-│ ├── templates/ # HTML pages
-│ ├── static/ # CSS, JS, Images
-│ └── models.py # Database models
-│
-├── run.py # Entry point to launch the app
-├── requirements.txt # Python dependencies
-├── Makefile # Automation for test/lint
-└── README.md
-
 ## 📌 Future Improvements
 - Add charts/graphs for progress visualization
 
